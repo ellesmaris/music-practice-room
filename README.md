@@ -187,4 +187,4 @@ Each stage should introduce a meaningful capability while keeping the applicatio
 
 ## License
 
-MIT
+[MIT License](https://opensource.org/license/mit/)
